@@ -1,10 +1,10 @@
 # 🐍 Python — Pequenos Projetos e Exercícios
 
-Este repositório reúne **pequenos projetos e exercícios desenvolvidos em Python**, com foco em aprendizado prático, lógica de programação e consolidação de conceitos fundamentais da linguagem.
+Este é um repositório que reúne **pequenos projetos e exercícios em Python**, onde busco **aprimorar meus conhecimentos**, praticar lógica de programação e consolidar os conceitos fundamentais da linguagem ao longo dos meus estudos.
 
-O conteúdo é ideal para quem está **iniciando em Python** ou deseja **reforçar a base** por meio de exemplos simples, progressivos e bem organizados.
+O conteúdo é voltado para aprendizado contínuo, com exemplos simples, progressivos e organizados, refletindo minha evolução no desenvolvimento com Python.
 
----
+----
 
 ## 🎯 Objetivo
 
@@ -45,29 +45,6 @@ Os exercícios e projetos podem envolver:
 
 ---
 
-## 🚀 Como Executar os Projetos
-
-1. Certifique-se de ter o Python instalado (versão 3.x)
-2. Clone o repositório:
-
-```bash
-git clone https://github.com/seu-usuario/seu-repositorio.git
-```
-
-3. Acesse a pasta desejada:
-
-```bash
-cd nome-do-projeto
-```
-
-4. Execute o arquivo:
-
-```bash
-python nome_do_arquivo.py
-```
-
----
-
 ## 🛠️ Tecnologias Utilizadas
 
 * **Python 3**
@@ -88,7 +65,5 @@ Desenvolvido por **Fernanda Morello**
 
 📌 Estudante e entusiasta de programação em Python
 
----
 
-⭐ Se este repositório te ajudou de alguma forma, considere deixar uma estrela!
 
