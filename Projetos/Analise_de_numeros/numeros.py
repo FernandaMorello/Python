@@ -9,6 +9,7 @@ else:
         num = int(input(f"Digite o {i+1}º número: "))
         numeros.append(num)
 
+def avaliacao_numerica():
     print(f"Números digitados: {numeros}")
     print(f"Soma: {sum(numeros)}")
     print(f"Maior número: {max(numeros)}")
@@ -19,3 +20,17 @@ else:
 
     numeros_media = sum(numeros) / len(numeros)
     print(f"Média: {numeros_media:.2f}")
+    
+avaliacao_numerica()
+
+alterar = input("Deseja alterar um número? (s/n) ")
+if alterar == "s":
+    index_numero = int(input("Qual o indice do numero que você deseja alterar? "))
+    print(f"O número no índice {index_numero} é: {numeros[index_numero]} ")  
+    novo_valor = int(input("Digite o novo valor valor: ")) 
+    numeros[index_numero] = novo_valor
+    avaliacao_numerica()
+else:
+    print("Obrigada por participar!")    
+    
+
